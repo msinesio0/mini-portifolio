@@ -1,6 +1,6 @@
 ## Mini Portifólio
 
-![preview] (./.github/preview.png)
+![preview](./.github/preview.png)
 
 Projeto de estudo de um mini portifólio para práticar habilidades de estudo 
 
